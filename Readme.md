@@ -8,7 +8,6 @@ Explore awesome web client created with Angular, [Here](https://github.com/Rohan
 
 
 ## Getting Started
----
 Backend is completely build with **django** and **django-rest-framework**. As of now,
 it's using the default **sqlite3** as database.
 
@@ -21,7 +20,6 @@ As mentioned above django and DRF (virtual environment is recommended).
 
 
 ## Usage
----
 All urls are suffixed to `<BASE URL>/api/` path and 
 all routes (mentioned below) are public.
 
@@ -79,7 +77,6 @@ Cast refers to the `Actor(s)` involved in a `Movie`.
 
 
 ## Contact
----
 Rohan Kamble - rohanopdev@gmail.com
 
 Frontend Project Link: [https://github.com/Rohan3011/movie-maintenance](https://github.com/Rohan3011/movie-maintenance)

@@ -11,13 +11,16 @@ Explore awesome web client created with Angular, [Here](https://github.com/Rohan
 Backend is completely build with **django** and **django-rest-framework**. As of now,
 it's using the default **sqlite3** as database.
 
+### ER Diagram
+![Movie_ER_Diagram](https://user-images.githubusercontent.com/76813454/164768169-160b6942-cc90-405d-9562-dfd199c04276.png)
+
+
 ### Prerequisites
 As mentioned above django and DRF (virtual environment is recommended).
 
 ```sh
     pip install django djangorestframework
 ```
-
 
 ## Usage
 All urls are suffixed to `<BASE URL>/api/` path and 

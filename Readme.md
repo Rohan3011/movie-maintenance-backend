@@ -12,9 +12,7 @@ Backend is completely build with **django** and **django-rest-framework**. As of
 it's using the default **sqlite3** as database.
 
 ### ER Diagram
-![Movie_ER_Diagram](https://user-images.githubusercontent.com/76813454/164768169-160b6942-cc90-405d-9562-dfd199c04276.png)
-
-![Movie_ER_Diagram](https://user-images.githubusercontent.com/76813454/164771876-62f505aa-2fd6-4cd2-805e-f1c13e95d939.png)
+![Movie_Maintenance](https://user-images.githubusercontent.com/76813454/164874884-94adf83e-735c-473a-aece-d5182b688b0a.png)
 
 
 ### Prerequisites
